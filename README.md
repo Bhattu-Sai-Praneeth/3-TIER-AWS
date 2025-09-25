@@ -67,13 +67,9 @@ The architecture is divided into three layers:
 - **Security:** Subnet isolation and proper security groups improve overall security.
 - **Maintainability:** Easier to manage and update individual components.
 
-## Technologies Used
+## Services Used
 
 - **AWS Services:** EC2, VPC, Subnets, Security Groups, Auto Scaling, Application Load Balancer, RDS, IAM
 - **Web Server:** Nginx
 - **Application Server:** Node.js
-- **Database:** MySQL/PostgreSQL
-
-## Conclusion
-
-This architecture provides a robust foundation for deploying scalable and secure web applications on AWS. By separating concerns into distinct tiers, it enhances maintainability, security, and scalability.
+- **Database:** MySQL
