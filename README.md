@@ -4,7 +4,7 @@ This repository demonstrates the design and deployment of a scalable and secure 
 
 ## Architecture Overview
 
-The architecture is divided into three layers:
+The architecture is divided into 3 layers:
 
 1. **Web Tier** – Handles user-facing elements and distributes traffic efficiently using **Nginx**.
 2. **Application Tier** – Processes business logic with **Node.js-based application servers**.
