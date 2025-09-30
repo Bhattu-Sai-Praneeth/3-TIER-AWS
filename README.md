@@ -16,7 +16,7 @@ The architecture is divided into 3 layers:
 
 - An AWS account with IAM user access.
 - Familiarity with the AWS Management Console.
-- Basic knowledge of **VPC, EC2, Auto Scaling Groups, Security Groups**.
+- Knowledge of **VPC, EC2, Auto Scaling Groups, Security Groups**.
 - Command-line access to **AWS CLI**.
 
 ## Step-by-Step Setup
